@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Spaghetti Bolognese",
+    "description": "A classic Italian pasta dish with rich meat sauce.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g ground beef",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "400g canned tomatoes",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook the spaghetti according to package instructions.",
+      "In a separate pan, cook the beef until browned.",
+      "Add the chopped onion and garlic to the pan and cook until soft.",
+      "Add the canned tomatoes, salt, and pepper, and simmer for 20 minutes.",
+      "Serve the sauce over the spaghetti."
+    ],
+    "image": "https://example.com/image.jpg",
+    "category": "Italian Pasta",
+    "author": "aires",
+    "createdAt": "2021-06-23T18:25:58.000Z",
+    "updatedAt": "2021-06-23T18:25:58.000Z"
+  },
+  {
+    "id": 1,
+    "name": "Chicken Curry",
+    "description": "A flavorful Indian chicken curry made with a blend of spices.",
+    "ingredients": [
+      "500g chicken breast",
+      "2 onions",
+      "3 tomatoes",
+      "4 cloves garlic",
+      "1 ginger piece",
+      "Spices",
+      "Salt",
+      "Oil"
+    ],
+    "steps": [
+      "Saute onions and garlic.",
+      "Add tomatoes and spices.",
+      "Add chicken and cook until done."
+    ],
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP0qv_fuGIoo&psig=AOvVaw0E2TrAYdpxeJth9ALbxbE4&ust=1718906115702000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCx0cKe6IYDFQAAAAAdAAAAABAT",
+    "category": "Indian Cuisine",
+    "author": "lovely",
+    "createdAt": "2021-06-23T18:25:58.000Z",
+    "updatedAt": "2021-06-23T18:25:58.000Z"
+  }
+]
